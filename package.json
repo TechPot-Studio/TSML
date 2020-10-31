@@ -1,0 +1,16 @@
+{
+  "name": "tsml",
+  "title": "TSML - TechPot Studio Minecraft Launcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "TechPot Studio <techpot-studio@yandex.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": ""
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
